@@ -1,8 +1,8 @@
 # Team Member
-Ding Zhan Chia
-Jeyshalini Tevosha Sethuraman
-Lijun Tan
-Ruey Ying Chuah
+1. Ding Zhan Chia
+2. Jeyshalini Tevosha Sethuraman
+3. Lijun Tan
+4. Ruey Ying Chuah
 
 # WOA-ML
 Neonates are classified as children in the first 4 weeks of their lives. At this early stage of their lives, vitals such as their heart and respiratory rates are important clinical indicators to monitor their status as newborns. The heart rate of infants requires resuscitation within the first few minutes of birth is known to be an estimator of early neonatal mortality and potentially severe brain injury in those who survive. Hence, an accurate assessment of heart rate at birth is crucial in guiding further interventions such as effective resuscitation efforts.
